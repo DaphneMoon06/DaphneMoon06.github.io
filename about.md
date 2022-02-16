@@ -11,4 +11,4 @@ Daphne Moon is a student pursuing a B.S. in Chemistry at Cal Poly SLO. She is or
 ### Contact me
 
 [dmoon06@calpoly.edu](mailto:dmoon06@calpoly.edu)
-[daphnemoon33@gmail.com](mailto:daphnemoon33@gmail.com
+[daphnemoon33@gmail.com](mailto:daphnemoon33@gmail.com)
