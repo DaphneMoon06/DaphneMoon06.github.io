@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Experience
+title: Current Resume
 permalink: /resume/
 ---
 
-# Experience
+## Experience
 ### Study Session Leader, Cal Poly 
 Febraury 2022- present 
 Lead study groups in general chemistry, biology, and calculus for other students at Cal Poly. Weekly lessen planning and group work is required for success in leading a session. 
@@ -31,7 +31,7 @@ Worked as a Level 2 cashier, prepared food, cleaned, and managed the
 drive-through, all while working as a team and ensuring quality service
 for the customer.
 
-# EDUCATION
+## EDUCATION
 ### California Polytechnic University- San Luis Obispo, San Luis
 ### Obispo— Bachelor of Science Degree
 September 2020 - June 2024
@@ -40,7 +40,7 @@ student, have been on the Dean’s list every quarter, and made the
 President’s Honor list for 2020-2021. Have taken the full general
 chemistry series as well as half the Organic chemistry lab series.
 
-# SKILLS
+## SKILLS
 
 Resourceful under pressure in a lab setting
 Flexible and adaptable to change
@@ -48,7 +48,7 @@ Chemistry lab technology proficiency in HNMR, rotary evaporator,
 CNMR, gas chromatography, IR, and Chemdraw
 Detail Oriented 
 
-# AWARDS
+## AWARDS
 ### MVHS MUN Award of Excellence- 
 Awarded to the
 student who best exemplifies
@@ -62,7 +62,7 @@ years, ending as 8th overall
 upon high school graduation
 and received Highest Honors.
 
-# Volunteer Work
+## Volunteer Work
 ### California Scholarship Federation- 
 GPA-based community service club where
 I accomplished 30 hours of
