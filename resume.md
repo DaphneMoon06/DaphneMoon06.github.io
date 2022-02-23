@@ -40,6 +40,13 @@ student, have been on the Dean’s list every quarter, and made the
 President’s Honor list for 2020-2021. Have taken the full general
 chemistry series as well as half the Organic chemistry lab series.
 
+### Relevant Courses Compleded 
+* General Chemistry Series
+* Organic Chemistry (2/3 courses)
+* Chemsitry academic seminar
+* Calculus Series 
+* Public Speaking 
+
 ## SKILLS
 
 Resourceful under pressure in a lab setting
