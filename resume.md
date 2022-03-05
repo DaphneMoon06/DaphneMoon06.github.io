@@ -7,7 +7,7 @@ permalink: /resume/
 ## Experience
 ### Study Session Leader, Cal Poly 
 Febraury 2022- present 
-Lead study groups in general chemistry, biology, and calculus for other students at Cal Poly. Weekly lessen planning and group work is required for success in leading a session. 
+Lead study groups in general chemistry, biology, and calculus for other students at Cal Poly. Weekly lesson planning and group work is required for success in leading a session. 
 
 ### Centec Engineering, Newport Beach, CA — Administrative Intern
 July 20, 2021 - August 31, 2021
